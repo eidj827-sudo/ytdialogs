@@ -11,6 +11,11 @@
     ]
   },
   "keys": {
+    "1234": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-09-07"
+    },
     "DP-VIP-101": {
       "status": "approved",
       "expiry_date": "2026-12-31",
